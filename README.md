@@ -1,5 +1,5 @@
 # CrytpoRave2017-CA
-##Palestra: Criptografia com Automatos Celulares
+## Palestra: Criptografia com Automatos Celulares
 ### Apresentação em Mathematica (Wolfram Langauge)
 
 * [@danielscarvalho](https://twitter.com/danielscarvalho)
