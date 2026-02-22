@@ -7,4 +7,5 @@
 * [Cryptorave 2017](https://2017.cryptorave.org/)
 * [Programa](https://cpa.cryptorave.org/pt-BR/CR2017/public/events/5)
 
-[Use CDF Player para abrir a apresentação](https://www.wolfram.com/cdf-player/)
+[Use CDF Player para abrir a apresentação](https://www.wolfram.com/cdf-player/) ou
+[Use Wolfram Cloud](https://www.wolframcloud.com)
